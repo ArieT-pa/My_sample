@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 #include "spell.h"
-
+//hello there lol
 /*  Suggestions
 - When you work with 2D arrays, be careful. Either manage the memory yourself, or
 work with local 2D arrays. Note C99 allows parameters as array sizes as long as
@@ -150,6 +150,7 @@ void sortitout(char str[][101], int* size, int printOn)
       }
 
 }
+printf("This is additional statement for GIT ");
 /*void printword(char** arr, char** sorted,int *size)
 {
   printf(" Original dictionary: \n");
